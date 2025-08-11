@@ -680,6 +680,14 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="854" y="85" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="859" y="89" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-19">
+<path d="M694,212 l-44,9" class="combo"/>
+<path d="M694,212 l43,-7" class="combo"/>
+<rect rx="6" ry="6" x="680" y="199" width="28" height="26" class="combo"/>
+<a href="#setting">
+<text x="694" y="212" class="combo tap layer-activator"><tspan style="font-size: 86%">setting</tspan></text>
+</a><text x="694" y="223" class="combo hold">toggle</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 318)" class="layer-1_mouse">
@@ -1039,6 +1047,14 @@ rect.held, rect.combo.held {
 <g class="combo combopos-18">
 <rect rx="6" ry="6" x="854" y="85" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="859" y="89" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
+</g>
+<g class="combo combopos-19">
+<path d="M694,212 l-44,9" class="combo"/>
+<path d="M694,212 l43,-7" class="combo"/>
+<rect rx="6" ry="6" x="680" y="199" width="28" height="26" class="combo"/>
+<a href="#setting">
+<text x="694" y="212" class="combo tap layer-activator"><tspan style="font-size: 86%">setting</tspan></text>
+</a><text x="694" y="223" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
@@ -1423,6 +1439,14 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="854" y="85" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="859" y="89" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-19">
+<path d="M694,212 l-44,9" class="combo"/>
+<path d="M694,212 l43,-7" class="combo"/>
+<rect rx="6" ry="6" x="680" y="199" width="28" height="26" class="combo"/>
+<a href="#setting">
+<text x="694" y="212" class="combo tap layer-activator"><tspan style="font-size: 86%">setting</tspan></text>
+</a><text x="694" y="223" class="combo hold">toggle</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 955)" class="layer-3_navi">
@@ -1780,6 +1804,14 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="854" y="85" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="859" y="89" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-19">
+<path d="M694,212 l-44,9" class="combo"/>
+<path d="M694,212 l43,-7" class="combo"/>
+<rect rx="6" ry="6" x="680" y="199" width="28" height="26" class="combo"/>
+<a href="#setting">
+<text x="694" y="212" class="combo tap layer-activator"><tspan style="font-size: 86%">setting</tspan></text>
+</a><text x="694" y="223" class="combo hold">toggle</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1274)" class="layer-4_fn">
@@ -2135,6 +2167,14 @@ rect.held, rect.combo.held {
 <g class="combo combopos-18">
 <rect rx="6" ry="6" x="854" y="85" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="859" y="89" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
+</g>
+<g class="combo combopos-19">
+<path d="M694,212 l-44,9" class="combo"/>
+<path d="M694,212 l43,-7" class="combo"/>
+<rect rx="6" ry="6" x="680" y="199" width="28" height="26" class="combo"/>
+<a href="#setting">
+<text x="694" y="212" class="combo tap layer-activator"><tspan style="font-size: 86%">setting</tspan></text>
+</a><text x="694" y="223" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
@@ -2509,6 +2549,14 @@ rect.held, rect.combo.held {
 <g class="combo combopos-18">
 <rect rx="6" ry="6" x="854" y="85" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="859" y="89" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
+</g>
+<g class="combo combopos-19">
+<path d="M694,212 l-44,9" class="combo"/>
+<path d="M694,212 l43,-7" class="combo"/>
+<rect rx="6" ry="6" x="680" y="199" width="28" height="26" class="combo"/>
+<a href="#setting">
+<text x="694" y="212" class="combo tap layer-activator"><tspan style="font-size: 86%">setting</tspan></text>
+</a><text x="694" y="223" class="combo hold">toggle</text>
 </g>
 </g>
 </g>

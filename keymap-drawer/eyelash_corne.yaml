@@ -333,3 +333,5 @@ combos:
   k: Alt+LEFT WIN
 - p: [26, 25]
   k: $$mdi:apple-keyboard-shift$$
+- p: [45, 46, 47]
+  k: {t: setting, h: toggle}
