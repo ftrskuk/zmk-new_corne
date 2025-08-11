@@ -32,7 +32,7 @@
             compatible = "zmk,behavior-tap-dance";
             display-name = "Shift/Caps Lock Tap Dance";
             #binding-cells = <0>;
-            bindings = <&kp LANG_HANGEUL>, <&kp CAPS>;
+            bindings = <&kp RIGHT_ALT>, <&kp CAPS>;
         };
     };
 
@@ -104,7 +104,7 @@
         };
 
         ralt {
-            bindings = <&kp RIGHT_ALT>;
+            bindings = <&kp LALT>;
             key-positions = <24 23>;
         };
 
