@@ -147,6 +147,11 @@
             bindings = <&kp RSHFT>;
             key-positions = <26 25>;
         };
+
+        ra5 {
+            bindings = <&to 5>;
+            key-positions = <45 46 47>;
+        };
     };
 
     keymap {
