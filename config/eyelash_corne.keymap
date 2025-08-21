@@ -152,6 +152,11 @@
             bindings = <&to 5>;
             key-positions = <45 46 47>;
         };
+
+        left_win {
+            bindings = <&kp LEFT_WIN>;
+            key-positions = <17 18>;
+        };
     };
 
     keymap {
