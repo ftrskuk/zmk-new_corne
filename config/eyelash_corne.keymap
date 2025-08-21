@@ -99,7 +99,7 @@
         };
 
         rctrl {
-            bindings = <&kp RCTRL>;
+            bindings = <&kp LCTRL>;
             key-positions = <25 24>;
         };
 
